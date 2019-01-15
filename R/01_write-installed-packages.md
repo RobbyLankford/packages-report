@@ -1,12 +1,34 @@
+01\_write-installed-packages.R
+================
+rlank
+Tue Jan 15 18:19:52 2019
 
-#' ---
-#' output: github_document
-#' ---
-
+``` r
 ## deja vu from earlier!
 
 library(dplyr)
+```
+
+    ## 
+    ## Attaching package: 'dplyr'
+
+    ## The following objects are masked from 'package:stats':
+    ## 
+    ##     filter, lag
+
+    ## The following objects are masked from 'package:base':
+    ## 
+    ##     intersect, setdiff, setequal, union
+
+``` r
 library(here)
+```
+
+    ## Warning: package 'here' was built under R version 3.5.2
+
+    ## here() starts at C:/Users/rlank/Documents/tmp/packages-report
+
+``` r
 library(readr)
 
 ## create a data frame of your installed packages
@@ -33,3 +55,4 @@ package_info_subset_tbl %>%
 ## YES overwrite the file that is there now (or delete it first)
 ## that's a old result from me (Jenny)
 ## it an example of what yours should look like and where it should go
+```

@@ -9,6 +9,7 @@ bindrcpp,3.5.1
 bitops,3.5.0
 broom,3.5.1
 callr,3.5.1
+caTools,3.5.2
 cellranger,3.5.1
 cli,3.5.1
 clipr,3.5.1
