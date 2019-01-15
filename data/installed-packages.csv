@@ -1,0 +1,178 @@
+Package,LibPath,Version,Priority,Built
+assertthat,C:/Users/rlank/Documents/R/win-library/3.5,0.2.0,NA,3.5.1
+backports,C:/Users/rlank/Documents/R/win-library/3.5,1.1.3,NA,3.5.1
+base64enc,C:/Users/rlank/Documents/R/win-library/3.5,0.1-3,NA,3.5.0
+bayesAB,C:/Users/rlank/Documents/R/win-library/3.5,1.1.1,NA,3.5.1
+BH,C:/Users/rlank/Documents/R/win-library/3.5,1.66.0-1,NA,3.5.0
+bindr,C:/Users/rlank/Documents/R/win-library/3.5,0.1.1,NA,3.5.1
+bindrcpp,C:/Users/rlank/Documents/R/win-library/3.5,0.2.2,NA,3.5.1
+bitops,C:/Users/rlank/Documents/R/win-library/3.5,1.0-6,NA,3.5.0
+broom,C:/Users/rlank/Documents/R/win-library/3.5,0.5.1,NA,3.5.1
+callr,C:/Users/rlank/Documents/R/win-library/3.5,3.1.0,NA,3.5.1
+cellranger,C:/Users/rlank/Documents/R/win-library/3.5,1.1.0,NA,3.5.1
+cli,C:/Users/rlank/Documents/R/win-library/3.5,1.0.1,NA,3.5.1
+clipr,C:/Users/rlank/Documents/R/win-library/3.5,0.4.1,NA,3.5.1
+clisymbols,C:/Users/rlank/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+colorspace,C:/Users/rlank/Documents/R/win-library/3.5,1.3-2,NA,3.5.1
+cowplot,C:/Users/rlank/Documents/R/win-library/3.5,0.9.3,NA,3.5.1
+crayon,C:/Users/rlank/Documents/R/win-library/3.5,1.3.4,NA,3.5.1
+curl,C:/Users/rlank/Documents/R/win-library/3.5,3.2,NA,3.5.1
+DBI,C:/Users/rlank/Documents/R/win-library/3.5,1.0.0,NA,3.5.1
+dbplyr,C:/Users/rlank/Documents/R/win-library/3.5,1.2.2,NA,3.5.1
+desc,C:/Users/rlank/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+devtools,C:/Users/rlank/Documents/R/win-library/3.5,2.0.1,NA,3.5.1
+digest,C:/Users/rlank/Documents/R/win-library/3.5,0.6.18,NA,3.5.1
+dplyr,C:/Users/rlank/Documents/R/win-library/3.5,0.7.8,NA,3.5.1
+easypackages,C:/Users/rlank/Documents/R/win-library/3.5,0.1.0,NA,3.5.1
+evaluate,C:/Users/rlank/Documents/R/win-library/3.5,0.12,NA,3.5.1
+fansi,C:/Users/rlank/Documents/R/win-library/3.5,0.4.0,NA,3.5.1
+forcats,C:/Users/rlank/Documents/R/win-library/3.5,0.3.0,NA,3.5.1
+foreach,C:/Users/rlank/Documents/R/win-library/3.5,1.4.4,NA,3.5.1
+forecast,C:/Users/rlank/Documents/R/win-library/3.5,8.4,NA,3.5.1
+fracdiff,C:/Users/rlank/Documents/R/win-library/3.5,1.4-2,NA,3.5.1
+fs,C:/Users/rlank/Documents/R/win-library/3.5,1.2.6,NA,3.5.2
+generics,C:/Users/rlank/Documents/R/win-library/3.5,0.0.2,NA,3.5.1
+GGally,C:/Users/rlank/Documents/R/win-library/3.5,1.4.0,NA,3.5.1
+ggplot2,C:/Users/rlank/Documents/R/win-library/3.5,3.1.0,NA,3.5.1
+gh,C:/Users/rlank/Documents/R/win-library/3.5,1.0.1,NA,3.5.1
+git2r,C:/Users/rlank/Documents/R/win-library/3.5,0.23.0,NA,3.5.1
+glmnet,C:/Users/rlank/Documents/R/win-library/3.5,2.0-16,NA,3.5.1
+glue,C:/Users/rlank/Documents/R/win-library/3.5,1.3.0,NA,3.5.1
+gower,C:/Users/rlank/Documents/R/win-library/3.5,0.1.2,NA,3.5.1
+gtable,C:/Users/rlank/Documents/R/win-library/3.5,0.2.0,NA,3.5.1
+h2o,C:/Users/rlank/Documents/R/win-library/3.5,3.20.0.8,NA,3.5.1
+haven,C:/Users/rlank/Documents/R/win-library/3.5,2.0.0,NA,3.5.1
+here,C:/Users/rlank/Documents/R/win-library/3.5,0.1,NA,3.5.2
+highr,C:/Users/rlank/Documents/R/win-library/3.5,0.7,NA,3.5.1
+hms,C:/Users/rlank/Documents/R/win-library/3.5,0.4.2,NA,3.5.1
+htmltools,C:/Users/rlank/Documents/R/win-library/3.5,0.3.6,NA,3.5.1
+htmlwidgets,C:/Users/rlank/Documents/R/win-library/3.5,1.3,NA,3.5.1
+httpuv,C:/Users/rlank/Documents/R/win-library/3.5,1.4.5,NA,3.5.1
+httr,C:/Users/rlank/Documents/R/win-library/3.5,1.4.0,NA,3.5.1
+ini,C:/Users/rlank/Documents/R/win-library/3.5,0.3.1,NA,3.5.1
+ipred,C:/Users/rlank/Documents/R/win-library/3.5,0.9-8,NA,3.5.1
+iterators,C:/Users/rlank/Documents/R/win-library/3.5,1.0.10,NA,3.5.1
+jsonlite,C:/Users/rlank/Documents/R/win-library/3.5,1.5,NA,3.5.1
+knitr,C:/Users/rlank/Documents/R/win-library/3.5,1.21,NA,3.5.1
+labeling,C:/Users/rlank/Documents/R/win-library/3.5,0.3,NA,3.5.0
+later,C:/Users/rlank/Documents/R/win-library/3.5,0.7.5,NA,3.5.1
+lava,C:/Users/rlank/Documents/R/win-library/3.5,1.6.4,NA,3.5.1
+lazyeval,C:/Users/rlank/Documents/R/win-library/3.5,0.2.1,NA,3.5.1
+lime,C:/Users/rlank/Documents/R/win-library/3.5,0.4.1,NA,3.5.1
+lmtest,C:/Users/rlank/Documents/R/win-library/3.5,0.9-36,NA,3.5.1
+lubridate,C:/Users/rlank/Documents/R/win-library/3.5,1.7.4,NA,3.5.1
+magrittr,C:/Users/rlank/Documents/R/win-library/3.5,1.5,NA,3.5.1
+markdown,C:/Users/rlank/Documents/R/win-library/3.5,0.9,NA,3.5.1
+memoise,C:/Users/rlank/Documents/R/win-library/3.5,1.1.0,NA,3.5.1
+mime,C:/Users/rlank/Documents/R/win-library/3.5,0.6,NA,3.5.1
+modelr,C:/Users/rlank/Documents/R/win-library/3.5,0.1.2,NA,3.5.1
+munsell,C:/Users/rlank/Documents/R/win-library/3.5,0.5.0,NA,3.5.1
+numDeriv,C:/Users/rlank/Documents/R/win-library/3.5,2016.8-1,NA,3.5.0
+openssl,C:/Users/rlank/Documents/R/win-library/3.5,1.1,NA,3.5.1
+padr,C:/Users/rlank/Documents/R/win-library/3.5,0.4.1,NA,3.5.1
+pander,C:/Users/rlank/Documents/R/win-library/3.5,0.6.3,NA,3.5.1
+PerformanceAnalytics,C:/Users/rlank/Documents/R/win-library/3.5,1.5.2,NA,3.5.1
+pillar,C:/Users/rlank/Documents/R/win-library/3.5,1.3.0,NA,3.5.1
+pkgbuild,C:/Users/rlank/Documents/R/win-library/3.5,1.0.2,NA,3.5.1
+pkgconfig,C:/Users/rlank/Documents/R/win-library/3.5,2.0.2,NA,3.5.1
+pkgload,C:/Users/rlank/Documents/R/win-library/3.5,1.0.2,NA,3.5.1
+plogr,C:/Users/rlank/Documents/R/win-library/3.5,0.2.0,NA,3.5.1
+plyr,C:/Users/rlank/Documents/R/win-library/3.5,1.8.4,NA,3.5.1
+prettyunits,C:/Users/rlank/Documents/R/win-library/3.5,1.0.2,NA,3.5.1
+processx,C:/Users/rlank/Documents/R/win-library/3.5,3.2.1,NA,3.5.1
+prodlim,C:/Users/rlank/Documents/R/win-library/3.5,2018.04.18,NA,3.5.1
+progress,C:/Users/rlank/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+promises,C:/Users/rlank/Documents/R/win-library/3.5,1.0.1,NA,3.5.1
+ps,C:/Users/rlank/Documents/R/win-library/3.5,1.2.1,NA,3.5.1
+purrr,C:/Users/rlank/Documents/R/win-library/3.5,0.2.5,NA,3.5.1
+quadprog,C:/Users/rlank/Documents/R/win-library/3.5,1.5-5,NA,3.5.0
+Quandl,C:/Users/rlank/Documents/R/win-library/3.5,2.9.1,NA,3.5.1
+quantmod,C:/Users/rlank/Documents/R/win-library/3.5,0.4-13,NA,3.5.1
+R6,C:/Users/rlank/Documents/R/win-library/3.5,2.3.0,NA,3.5.1
+rcmdcheck,C:/Users/rlank/Documents/R/win-library/3.5,1.3.2,NA,3.5.1
+RColorBrewer,C:/Users/rlank/Documents/R/win-library/3.5,1.1-2,NA,3.5.0
+Rcpp,C:/Users/rlank/Documents/R/win-library/3.5,1.0.0,NA,3.5.1
+RcppArmadillo,C:/Users/rlank/Documents/R/win-library/3.5,0.9.200.5.0,NA,3.5.1
+RcppEigen,C:/Users/rlank/Documents/R/win-library/3.5,0.3.3.5.0,NA,3.5.1
+RcppRoll,C:/Users/rlank/Documents/R/win-library/3.5,0.3.0,NA,3.5.1
+RCurl,C:/Users/rlank/Documents/R/win-library/3.5,1.95-4.11,NA,3.5.1
+readr,C:/Users/rlank/Documents/R/win-library/3.5,1.3.0,NA,3.5.1
+readxl,C:/Users/rlank/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+recipes,C:/Users/rlank/Documents/R/win-library/3.5,0.1.4,NA,3.5.1
+rematch,C:/Users/rlank/Documents/R/win-library/3.5,1.0.1,NA,3.5.1
+remotes,C:/Users/rlank/Documents/R/win-library/3.5,2.0.2,NA,3.5.1
+reprex,C:/Users/rlank/Documents/R/win-library/3.5,0.2.1,NA,3.5.1
+reshape,C:/Users/rlank/Documents/R/win-library/3.5,0.8.8,NA,3.5.1
+reshape2,C:/Users/rlank/Documents/R/win-library/3.5,1.4.3,NA,3.5.1
+rlang,C:/Users/rlank/Documents/R/win-library/3.5,0.3.0.1,NA,3.5.1
+rmarkdown,C:/Users/rlank/Documents/R/win-library/3.5,1.11,NA,3.5.1
+rprojroot,C:/Users/rlank/Documents/R/win-library/3.5,1.3-2,NA,3.5.1
+rstudioapi,C:/Users/rlank/Documents/R/win-library/3.5,0.8,NA,3.5.1
+rvest,C:/Users/rlank/Documents/R/win-library/3.5,0.3.2,NA,3.5.1
+scales,C:/Users/rlank/Documents/R/win-library/3.5,1.0.0,NA,3.5.1
+selectr,C:/Users/rlank/Documents/R/win-library/3.5,0.4-1,NA,3.5.1
+sessioninfo,C:/Users/rlank/Documents/R/win-library/3.5,1.1.1,NA,3.5.1
+shiny,C:/Users/rlank/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+shinythemes,C:/Users/rlank/Documents/R/win-library/3.5,1.1.2,NA,3.5.1
+skimr,C:/Users/rlank/Documents/R/win-library/3.5,1.0.3,NA,3.5.1
+sourcetools,C:/Users/rlank/Documents/R/win-library/3.5,0.1.7,NA,3.5.1
+SQUAREM,C:/Users/rlank/Documents/R/win-library/3.5,2017.10-1,NA,3.5.0
+stringi,C:/Users/rlank/Documents/R/win-library/3.5,1.2.4,NA,3.5.1
+stringr,C:/Users/rlank/Documents/R/win-library/3.5,1.3.1,NA,3.5.1
+tibble,C:/Users/rlank/Documents/R/win-library/3.5,1.4.2,NA,3.5.1
+tidyquant,C:/Users/rlank/Documents/R/win-library/3.5,0.5.5,NA,3.5.1
+tidyr,C:/Users/rlank/Documents/R/win-library/3.5,0.8.2,NA,3.5.1
+tidyselect,C:/Users/rlank/Documents/R/win-library/3.5,0.2.5,NA,3.5.1
+tidyverse,C:/Users/rlank/Documents/R/win-library/3.5,1.2.1,NA,3.5.1
+timeDate,C:/Users/rlank/Documents/R/win-library/3.5,3043.102,NA,3.5.1
+timetk,C:/Users/rlank/Documents/R/win-library/3.5,0.1.1.1,NA,3.5.1
+tinytex,C:/Users/rlank/Documents/R/win-library/3.5,0.9,NA,3.5.1
+tseries,C:/Users/rlank/Documents/R/win-library/3.5,0.10-46,NA,3.5.1
+TTR,C:/Users/rlank/Documents/R/win-library/3.5,0.23-4,NA,3.5.1
+urca,C:/Users/rlank/Documents/R/win-library/3.5,1.3-0,NA,3.5.1
+uroot,C:/Users/rlank/Documents/R/win-library/3.5,2.0-9,NA,3.5.0
+usethis,C:/Users/rlank/Documents/R/win-library/3.5,1.4.0,NA,3.5.2
+ustyc,C:/Users/rlank/Documents/R/win-library/3.5,1.0.0,NA,3.5.1
+utf8,C:/Users/rlank/Documents/R/win-library/3.5,1.1.4,NA,3.5.1
+viridisLite,C:/Users/rlank/Documents/R/win-library/3.5,0.3.0,NA,3.5.1
+whisker,C:/Users/rlank/Documents/R/win-library/3.5,0.3-2,NA,3.5.1
+withr,C:/Users/rlank/Documents/R/win-library/3.5,2.1.2,NA,3.5.1
+writexl,C:/Users/rlank/Documents/R/win-library/3.5,1.1,NA,3.5.1
+xfun,C:/Users/rlank/Documents/R/win-library/3.5,0.4,NA,3.5.1
+XML,C:/Users/rlank/Documents/R/win-library/3.5,3.98-1.16,NA,3.5.1
+xml2,C:/Users/rlank/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+xopen,C:/Users/rlank/Documents/R/win-library/3.5,1.0.0,NA,3.5.1
+xtable,C:/Users/rlank/Documents/R/win-library/3.5,1.8-3,NA,3.5.1
+xts,C:/Users/rlank/Documents/R/win-library/3.5,0.11-2,NA,3.5.1
+yaml,C:/Users/rlank/Documents/R/win-library/3.5,2.2.0,NA,3.5.1
+zoo,C:/Users/rlank/Documents/R/win-library/3.5,1.8-4,NA,3.5.1
+base,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+boot,C:/Program Files/R/R-3.5.1/library,1.3-20,recommended,3.5.1
+class,C:/Program Files/R/R-3.5.1/library,7.3-14,recommended,3.5.1
+cluster,C:/Program Files/R/R-3.5.1/library,2.0.7-1,recommended,3.5.1
+codetools,C:/Program Files/R/R-3.5.1/library,0.2-15,recommended,3.5.1
+compiler,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+datasets,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+foreign,C:/Program Files/R/R-3.5.1/library,0.8-70,recommended,3.5.1
+graphics,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+grDevices,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+grid,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+KernSmooth,C:/Program Files/R/R-3.5.1/library,2.23-15,recommended,3.5.1
+lattice,C:/Program Files/R/R-3.5.1/library,0.20-35,recommended,3.5.1
+MASS,C:/Program Files/R/R-3.5.1/library,7.3-50,recommended,3.5.1
+Matrix,C:/Program Files/R/R-3.5.1/library,1.2-14,recommended,3.5.1
+methods,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+mgcv,C:/Program Files/R/R-3.5.1/library,1.8-24,recommended,3.5.1
+nlme,C:/Program Files/R/R-3.5.1/library,3.1-137,recommended,3.5.1
+nnet,C:/Program Files/R/R-3.5.1/library,7.3-12,recommended,3.5.1
+parallel,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+rpart,C:/Program Files/R/R-3.5.1/library,4.1-13,recommended,3.5.1
+spatial,C:/Program Files/R/R-3.5.1/library,7.3-11,recommended,3.5.1
+splines,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+stats,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+stats4,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+survival,C:/Program Files/R/R-3.5.1/library,2.42-3,recommended,3.5.1
+tcltk,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+tools,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
+translations,C:/Program Files/R/R-3.5.1/library,3.5.1,NA,3.5.1
+utils,C:/Program Files/R/R-3.5.1/library,3.5.1,base,3.5.1
