@@ -7,4 +7,4 @@ Another edit, now from GitHub in the browser
 
 What an eucatastrophe!
 
-I absolutely love using Git.
+Here's a change I made in "the-past" branch
