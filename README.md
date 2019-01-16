@@ -6,3 +6,5 @@ An edit from RStudio
 Another edit, now from GitHub in the browser
 
 What an eucatastrophe!
+
+Awesome work!
